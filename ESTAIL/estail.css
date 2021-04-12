@@ -106,3 +106,7 @@ h1{
     margin-right: calc(var(--bs-gutter-x)/ -2);
     margin-left: calc(var(--bs-gutter-x)/ -2);
 }
+
+.textoBonito{
+  padding: 50px;
+}
