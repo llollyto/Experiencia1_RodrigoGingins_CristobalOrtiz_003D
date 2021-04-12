@@ -108,5 +108,17 @@ h1{
 }
 
 .textoBonito{
-  padding: 50px;
+  padding: 25px;
 }
+
+hr{
+  color: #fff;
+}
+.lineas{
+  border-color: rgb(250, 250, 250);
+    border-width: 10px;
+    border-radius: 20px;
+    border-style: double;
+
+}
+  
